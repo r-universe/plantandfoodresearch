@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hidecan"]
+	path = hidecan
+	url = https://github.com/plantandfoodresearch/hidecan
+	shallow = true
+	registered = true
