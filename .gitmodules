@@ -8,8 +8,3 @@
 	url = https://github.com/plantandfoodresearch/hidecan
 	shallow = true
 	registered = true
-[submodule "GWASpoly"]
-	path = GWASpoly
-	url = https://github.com/jendelman/GWASpoly
-	shallow = true
-	registered = false
